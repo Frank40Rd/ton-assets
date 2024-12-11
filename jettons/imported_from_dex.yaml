@@ -304,6 +304,9 @@
 - address: 0:36f7907853194b4c9610b2cb786f1f7e9a6eeb52083ad3b65bcf5a4d16e7df30
   name: DONDON
   symbol: DONDON
+- address: 0:a0194301feed4692bb24c36a38d3b220f3299099f9315ae3d6d9de0836e4283c
+  name: D-ONE
+  symbol: DONE
 - address: 0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110
   name: Donut The Dog
   symbol: DONUT
@@ -589,6 +592,9 @@
 - address: 0:576ed808a1cbdbd741902959d08d942ac77b578c68c1599c92f1f87661c1dbb0
   name: MuscleCare
   symbol: MCL
+- address: 0:a2bd285efa78a031a9c08a5f22471c0ab29ef8700d2ad1ad349263c1b4b7d11d
+  name: Mihaylets Community
+  symbol: MCOM
 - address: 0:de5cbf52f80a467ac4146c12d88b64464bd52959f00118017c8c40e1ffa5d08c
   name: Melon
   symbol: MELON
@@ -1151,6 +1157,9 @@
 - address: 0:b3c7d43b7242995e4c9366c0a74d7c5029bafe974ebeab3f70ad759678dce5c0
   name: TON RENAISSANCE
   symbol: TONR
+- address: 0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b
+  name: TON SCAM
+  symbol: TONSCAM
 - address: 0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81
   name: ToonTools
   symbol: TOON
@@ -1247,6 +1256,9 @@
 - address: 0:dd0a16bf2be67dee52a5e7df4ed060c0b74a72d9952ea27b385ae7fce6daba35
   name: "Du Rove\u2019s Wall"
   symbol: WALL
+- address: 0:310bef9e2ad5dee3e7bd3e160eae4f9f8f1f14d769784f8204a739027f7162cd
+  name: Watch Coin
+  symbol: WCN
 - address: 0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b
   name: Web3 TON Token
   symbol: WEB3
@@ -1301,9 +1313,6 @@
 - address: 0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72
   name: Meme Inc
   symbol: YOBA
-- address: 0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542
-  name: ' Vladimir Putin''s Dog'
-  symbol: YUME
 - address: 0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11
   name: ZEUS
   symbol: ZEUS
@@ -1313,9 +1322,15 @@
 - address: 0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a
   name: eNOT COIN
   symbol: eNOT
+- address: 0:9b9117699eb5997e6d3b74fe67ff08c6c7a9653641cd21d999fa0a4841c0cff8
+  name: jBTC
+  symbol: jBTC
 - address: 0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861
   name: Bitget Wallet Token
   symbol: jBWB
+- address: 0:9bd52017d6178af6d2bc6b9097b5849b7475e43cf01758a4f2dd8cf93c7d6582
+  name: jETH
+  symbol: jETH
 - address: 0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700
   name: GAMEE
   symbol: jGMEE
